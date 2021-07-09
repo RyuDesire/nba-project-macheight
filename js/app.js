@@ -51,6 +51,7 @@ const showData = async (value) => {
   else{
     //pending inplementations
     result.innerHTML=`<li>Data exceed the actual limits.<br>Check the console</li>`
+    console.log(data);
   }
 }
 showData();
