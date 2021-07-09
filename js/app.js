@@ -42,7 +42,7 @@ const showData = async (value) => {
   if(!data.length){
     result.innerHTML=`<li>Matches not found</li>`
   }
-  else if(data.length <= 250 ){
+  else if(data.length <= 100 ){
     for(let i = 0; i < data.length; i++){
       result.innerHTML+=`<li>${data[i][0]} - ${data[i][1]}</li>`
     //data.map( element => result.innerHTML+=`<li>${element[0]} - ${element[1]}</li>`)
