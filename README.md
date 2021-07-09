@@ -1,5 +1,5 @@
 # MachEight
----
+
 ### How it works?
 
     1. Whent the user write and integer & clicks on the look up button.
@@ -30,7 +30,6 @@
       **Copy and paste the following code in your command prompt:**
       *git clone https://github.com/RyuDesire/nba-project-macheight.git*
 
----
 #### Things to improve
    * Write the tests cases
       * User's input should be a integer
