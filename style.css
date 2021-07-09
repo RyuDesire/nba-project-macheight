@@ -52,6 +52,7 @@ footer{
 }
 .results {
   background-color: rgba(255, 255, 255, .75);
+  text-align: center;
   color: #000;
   margin: 5rem 3rem;
   padding: 3rem;
