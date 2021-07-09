@@ -11,18 +11,20 @@
         2. Clear is inner HTML.
         3. As **showData()** 
 
-    1. This project use the fecth API to get the data of NBA players from this endpoint [NBA Players](https://mach-eight.uc.r.appspot.com/).
+    1. This project use the fecth API to get the data of NBA players from this endpoint
+  [NBA Players](https://mach-eight.uc.r.appspot.com/).
     2. Converts it to JSON format
 
 
 ## Live Demo
 
-    Wanna see it on live? [Visit Now](https://ryudesire.github.io/nba-project-macheight/ "Live Demo")
+    Wanna see it on live? 
+  [Visit Now](https://ryudesire.github.io/nba-project-macheight/ "Live Demo")
 
 ## Get the source code
 
     To download:
-      [Download](https://github.com/RyuDesire/nba-project-macheight/archive/refs/heads/main.zip)
+  [Download](https://github.com/RyuDesire/nba-project-macheight/archive/refs/heads/main.zip)
     
     To Clone:
       *NOTE: As a requirement to clone this repository Git must be installed in you PC*
